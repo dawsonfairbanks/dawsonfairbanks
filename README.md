@@ -5,9 +5,9 @@ I am currently a postdoctoral researcher at the University of Arizona and the Pr
 [🐦 my twitter](https://twitter.com/dawsonfairbanks) [👩‍🏫 my linkedin](https://www.linkedin.com/in/dawsonfairbanks/)[📝 my publications](https://scholar.google.com/citations?user=TjtNlmcAAAAJ&hl=en&oi=ao) [💻 my website](dawsonfairbanks.com)
 
 ### Some things about me
-- 👀 I’m interested in microbial ecolology, soil science and global change 
-- 🌱 I'm currently working on broad scale microbial synthesis efforts linking microbial traits across ecosystem and global scales
-- 🔍 I’m looking to collaborate on integrating microbial genomic data and synthesizing bioinformatic workflows. I am seeking roles where I can apply my training in ecosystem and data science to answer critical questions in environmental related fields
+- 👀 I am interested in microbial ecolology, soil science and global change.
+- 🌱 I am currently working on broad scale microbial synthesis efforts linking microbial traits across ecosystem and global scales. More information about this work can be found at our [NCEAS LTER EMERGENT working group web page](https://lternet.edu/working-groups/ecological-metagenome-derived-reference-genomes-and-traits-emergent/).
+- 🔍 I am looking to collaborate on integrating microbial genomic data and synthesizing bioinformatic workflows. I am seeking roles where I can apply my training in ecosystem and data science to answer critical questions in environmental related fields.
 
 ### 🎓 Education
 * PhD Soil, Water and Environmental Science, Minor in Natural Resources and the Environment
