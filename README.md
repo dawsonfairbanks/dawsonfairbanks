@@ -7,7 +7,7 @@ I am currently a postdoctoral researcher at the University of Arizona and the Pr
 ### Some things about me
 - 👀 I am interested in microbial ecolology, soil science and global change.
 - 🌱 I am currently working on broad scale microbial synthesis efforts linking microbial traits across ecosystem and global scales. More information about this work can be found at our [NCEAS LTER EMERGENT working group web page](https://lternet.edu/working-groups/ecological-metagenome-derived-reference-genomes-and-traits-emergent/).
-- 🔍 I am looking to collaborate on integrating microbial genomic data and synthesizing bioinformatic workflows. I am seeking roles where I can apply my training in ecosystem and data science to answer critical questions in environmental related fields.
+- 🔍 I am looking to collaborate on scaling soil properties to drive novel insight and create solutions to environmental problems. I am seeking roles where I can apply my training in ecosystem and data science to answer critical questions in environmental related fields.
 
 ### 🎓 Education
 * PhD Soil, Water and Environmental Science, Minor in Natural Resources and the Environment
