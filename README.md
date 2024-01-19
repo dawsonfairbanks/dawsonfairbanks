@@ -1,6 +1,6 @@
 # Hi, I’m Dawson Fairbanks, PhD
 
-I am currently an NSF Earth Science Postdoctoral Research Fellow working with the CZNET geomicrobiology cluster and a Principal Investigator of the DOE JGI CSP New Investigator Award analyzing soil metagenomic data 🧬.
+I am currently an NSF Earth Science Postdoctoral Research Fellow working with the [CZNET geomicrobiology cluster](https://criticalzone.org/geomicrobiology) and a Principal Investigator of the DOE JGI CSP New Investigator Award analyzing soil metagenomic data 🧬.
 
 [🐦 my twitter](https://twitter.com/dawsonfairbanks) [👩‍🏫 my linkedin](https://www.linkedin.com/in/dawsonfairbanks/)[📝 my publications](https://scholar.google.com/citations?user=TjtNlmcAAAAJ&hl=en&oi=ao) [💻 my website](dawsonfairbanks.com)
 
