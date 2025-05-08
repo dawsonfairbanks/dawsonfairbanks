@@ -2,7 +2,7 @@
 
 I’m a bioinformatician and ecosystem scientist working at the intersection of microbial ecology, data science, and environmental impact. I currently lead sequencing and data workflows at [Funga](https://www.funga.earth), a climate biotech startup restoring forests using native fungal microbiomes 🌲🍄.
 
-My work focuses on integrating genomic, ecological, and environmental data to scale nature-based climate solutions and forest carbon insights.
+My work focuses on integrating genomic, ecological, and environmental data to scale nature-based climate solutions and forest carbon insights. I help scale startups with cloud infrastructure and am actively integrating AI to accelerate biodiversity and restoration analytics.
 
 [🐦 Twitter](https://twitter.com/dawsonfairbanks) | [👔 LinkedIn](https://www.linkedin.com/in/dawsonfairbanks/) | [📚 Publications](https://scholar.google.com/citations?user=TjtNlmcAAAAJ&hl=en&oi=ao) | [🌐 Website](https://dawsonfairbanks.com)
 
@@ -12,8 +12,9 @@ My work focuses on integrating genomic, ecological, and environmental data to sc
 - Build scalable, reproducible pipelines to process microbial sequencing data  
 - Analyze soil biodiversity and functional traits across environmental gradients  
 - Integrate genomic, geospatial, and ecological data for forest restoration and climate modeling  
-- Collaborate across science, tech, and product teams to translate soil DNA into actionable insight
-- Helped build Funga’s data infrastructure as one of the first data science hires — including data modeling, ingest pipelines, and integration of forest inventory, soil, and sequencing data into Databricks
+- Collaborate across science, tech, and product teams to translate soil DNA into actionable insight  
+- As one of Funga's first data science hires, I played a key role in designing Funga’s data infrastructure — including data modeling, ingest pipelines, and integration of forest inventory, soil, geospatial, hyperspectral and sequencing data into Databricks  
+- Partnered with product and science leads to embed AI as a strategic layer in data workflows — from QC automation to biodiversity modeling and restoration outcome prediction
 
 ---
 
@@ -26,9 +27,11 @@ My work focuses on integrating genomic, ecological, and environmental data to sc
 
 ### 🛠 Tech Stack
 - **Languages**: R, Python, SQL, bash  
-- **Tools**: Databricks, GitHub, Docker
-- **Cloud & Infra**: AWS, GCP (Earth Engine, BigQuery), Unity Catalog, Delta Lake, Spark, ArcGIS
-- **Specialties**: Metagenomics pipelines, taxonomic classification, biodiversity modeling, data engineering workflows, and custom geospatial mapping in Databricks
+- **Tools**: DADA2, QIIME2, VSEARCH, BLAST, phyloseq, iNEXT, SHAP, matplotlib, ggplot2  
+- **Platforms**: Databricks (Delta Live Tables, Unity Catalog, MLflow), GitHub, Docker  
+- **Cloud & Infra**: AWS, GCP (Earth Engine, BigQuery), Delta Lake, Spark, ArcGIS  
+- **Specialties**: Metagenomics pipelines, taxonomic classification, biodiversity modeling, AI integration, data engineering workflows, and custom geospatial mapping in Databricks  
+
 ---
 
 ### 🌱 Research & Projects
@@ -39,8 +42,8 @@ My work focuses on integrating genomic, ecological, and environmental data to sc
 ---
 
 ### 🧪 Past Experience
-- **NSF Earth Sciences Postdoctoral Fellow**
-- **PI**, DOE JGI CSP New Investigator Award — Soil metagenomics for trait discovery
+- **NSF Earth Sciences Postdoctoral Fellow** – CZNET Geomicrobiology Cluster  
+- **PI**, DOE JGI CSP New Investigator Award — Soil metagenomics for trait discovery  
 
 ---
 
@@ -48,7 +51,8 @@ My work focuses on integrating genomic, ecological, and environmental data to sc
 I’m always open to conversations around:
 - Biodiversity informatics and ecological forecasting  
 - Environmental applications of genomics and machine learning  
-- Reproducible data science and open-source tool development
+- Scalable pipelines for restoration, soil carbon, or nature-based solutions  
+- Open-source tools and reproducible data science
 
 ---
 
