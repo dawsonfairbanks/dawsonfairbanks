@@ -27,7 +27,6 @@ My work focuses on integrating genomic, ecological, and environmental data to sc
 
 ### 🛠 Tech Stack
 - **Languages**: R, Python, SQL, bash  
-- **Tools**: DADA2, QIIME2, VSEARCH, BLAST, phyloseq, iNEXT, SHAP, matplotlib, ggplot2  
 - **Platforms**: Databricks (Delta Live Tables, Unity Catalog, MLflow), GitHub, Docker  
 - **Cloud & Infra**: AWS, GCP (Earth Engine, BigQuery), Delta Lake, Spark, ArcGIS  
 - **Specialties**: Metagenomics pipelines, taxonomic classification, biodiversity modeling, AI integration, data engineering workflows, and custom geospatial mapping in Databricks  
