@@ -13,7 +13,7 @@ My work focuses on integrating genomic, ecological, and environmental data to sc
 - Analyze soil biodiversity and functional traits across environmental gradients  
 - Integrate genomic, geospatial, and ecological data for forest restoration and climate modeling  
 - Collaborate across science, tech, and product teams to translate soil DNA into actionable insight
-- As one of the first data science hires at Funga, I helped build core infrastructure for soil sequencing analysis, restoration modeling, and geospatial mapping in Databricks.
+- Helped build Funga’s data infrastructure as one of the first data science hires — including data modeling, ingest pipelines, and integration of forest inventory, soil, and sequencing data into Databricks
 
 ---
 
