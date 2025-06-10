@@ -2,7 +2,7 @@
 
 I’m a bioinformatician and ecosystem scientist working at the intersection of microbial ecology, data science, and environmental impact. I currently lead sequencing and data workflows at [Funga](https://www.funga.earth), a climate biotech startup restoring forests using native fungal microbiomes 🌲🍄.
 
-My work focuses on integrating genomic, ecological, and environmental data to scale nature-based climate solutions and forest carbon insights. I help scale startups with cloud infrastructure and am actively integrating AI to accelerate biodiversity and restoration analytics.
+My work focuses on integrating genomic, ecological, and environmental data to scale nature-based climate solutions and forest carbon insights. I help scale with cloud infrastructure and am actively integrating ML to accelerate biodiversity and restoration analytics.
 
 [🐦 Twitter](https://twitter.com/dawsonfairbanks) | [👔 LinkedIn](https://www.linkedin.com/in/dawsonfairbanks/) | [📚 Publications](https://scholar.google.com/citations?user=TjtNlmcAAAAJ&hl=en&oi=ao) | [🌐 Website](https://dawsonfairbanks.com)
 
