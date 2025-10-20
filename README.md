@@ -13,8 +13,8 @@ My work focuses on integrating genomic, ecological, and environmental data to sc
 - Analyze soil biodiversity and functional traits across environmental gradients  
 - Integrate genomic, geospatial, and ecological data for forest restoration and climate modeling  
 - Collaborate across science, tech, and product teams to translate soil DNA into actionable insight  
-- As one of Funga's first data science hires, I played a key role in designing Funga’s data infrastructure — including data modeling, ingest pipelines, and integration of forest inventory, soil, geospatial, hyperspectral and sequencing data into Databricks  
-- Partnered with product and science leads to embed AI as a strategic layer in data workflows — from QC automation to biodiversity modeling and restoration outcome prediction
+- As one of Funga's first data science hires, I played a key role in designing Funga’s data infrastructure — including data modeling, ingest pipelines, and integration of forest inventory, soil, geospatial, hyperspectral and sequencing data into cloud-based iterative workflows.  
+- Partnered with product and science leads to embed AI as a strategic layer in data workflows — from QC automation to biodiversity modeling and restoration outcome prediction.
 
 ---
 
@@ -29,7 +29,7 @@ My work focuses on integrating genomic, ecological, and environmental data to sc
 - **Languages**: R, Python, SQL, bash  
 - **Platforms**: Databricks (Delta Live Tables, Unity Catalog, MLflow), GitHub, Docker, ArcGIS
 - **Cloud & Infra**: AWS, GCP (Earth Engine, BigQuery), Delta Lake, Spark  
-- **Specialties**: Metagenomics pipelines, taxonomic classification, biodiversity modeling, AI integration, data engineering workflows, and custom geospatial mapping in Databricks  
+- **Specialties**: Metagenomics & bioinformatics pipelines, taxonomic classification, biodiversity modeling, AI and ML integration, data engineering and cloud workflows, and geospatial analytics and interdisciplinary leadership bridging ecology, data science and climate tech strategy; designing scalable data infrastructure for restoration.
 
 ---
 
