@@ -11,7 +11,7 @@ My work focuses on turning complex biological and environmental data into scalab
 
 ### 🔬 What I Do
 - Lead the design of scalable, reproducible data platforms for microbial sequencing and environmental analytics
-- Architect end-to-end pipelines integr ating genomic, geospatial, forest inventory, hyperspectral, and environmental data
+- Architect end-to-end pipelines integrating genomic, geospatial, forest inventory, remote sensing, and environmental data
 - Translate soil DNA and biodiversity metrics into actionable insights for restoration, climate, and product strategy
 - Partner with science, product, and executive stakeholders to align data systems with organizational goals
 - As one of Funga’s first data science hires, helped design the company’s core data infrastructure, including data models, ingestion pipelines, and cloud-native workflows
