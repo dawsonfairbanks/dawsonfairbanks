@@ -1,7 +1,7 @@
 # Hi, I’m Dawson Fairbanks, PhD
 
 
-I’m a Senior Data Scientist and bioinformatician working at the intersection of strategy, data infrastructure, and environmental systems. I currently lead sequencing and data workflows at [Funga](https://www.funga.earth), a climate biotech company restoring forests through native fungal microbiomes 🌲🍄.
+I’m a Senior Data Scientist and bioinformatician working at the intersection of strategy, data infrastructure, and environmental systems. I currently lead sequencing and biodiversity workflows at [Funga](https://www.funga.earth), a climate biotech company restoring forests through native fungal microbiomes 🌲🍄.
 
 My work focuses on turning complex biological and environmental data into scalable decision systems. I design and lead cloud-based data platforms that integrate genomic, ecological, and geospatial data, and I partner closely with science, product, and leadership teams to embed ML and analytics as core drivers of restoration outcomes, carbon insight, and biodiversity intelligence.
 
